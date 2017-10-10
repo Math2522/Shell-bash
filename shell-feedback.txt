@@ -10,7 +10,6 @@ pos: Good intro to the basics.
 pos: I learned something.
 pos: Good introduction to the shell and potential uses.
 pos: Content appeared to be comprehensive.
-neg: A bit too basic for me.
 pos: Good to have a common data set to work with all together.
 neg: Problems with Windows.
 neg: Some commands didn't work for me.
