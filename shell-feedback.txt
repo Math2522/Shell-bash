@@ -29,6 +29,7 @@ neg: Maybe look a bit more into the possibilities that the loops can bring.
 pos: It was very good that we were able to follow the progress on screen.
 pos: Thorough step-by-step.
 pos: Easy to follow.
+pos: adding a secret comment.
 pos: Relaxed atmosphere.
 pos: can use what we learned as a stepping stone to learn more myself.
 neg: Structure a bit intransparent.
